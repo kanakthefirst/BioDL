@@ -41,4 +41,4 @@ This project comprises four main modules: Prompt Module, Sentence Encoder, Class
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kaiwalya-joshi/BioDL.git
+   git clone https://github.com/kanakthefirst/BioDL.git
